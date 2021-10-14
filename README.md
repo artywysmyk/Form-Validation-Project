@@ -8,3 +8,6 @@ Project created by Joy Shaheb and found on freeCodeCamp website.
 
 ![Screen Shot 2021-10-14 at 16 12 44](https://user-images.githubusercontent.com/77698908/137336843-28867d84-e4d7-401c-b9e2-9ff706670f16.png)
 
+
+
+![Screen Shot 2021-10-14 at 16 13 28](https://user-images.githubusercontent.com/77698908/137337126-bbf14c91-ff31-4563-9ea4-3d486f85e5d6.png)
