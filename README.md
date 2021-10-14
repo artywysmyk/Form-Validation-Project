@@ -1,6 +1,7 @@
 # Form-Validation-Project
 
-The main goal of this assignment is to learn how to work with media queries and how to do form validation in JavaScript.
+The main goal of this assignment is to learn how to do form validation in JavaScript.
+
 Project created by Joy Shaheb and found on freeCodeCamp website.
 
 ![Screen Shot 2021-10-14 at 16 21 02](https://user-images.githubusercontent.com/77698908/137336709-9be51fbd-23cb-4709-acbe-1378592dbe9c.png)
@@ -18,5 +19,4 @@ Project created by Joy Shaheb and found on freeCodeCamp website.
 
 
 
-![Screen Shot 2021-10-14 at 16 14 57](https://user-images.githubusercontent.com/77698908/137337468-9fee15a8-af36-49a1-b360-00f88677353e.png)
 
