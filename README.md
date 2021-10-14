@@ -1,6 +1,6 @@
 # Form-Validation-Project
 
-The main goal of this assignment is to learn how to do form validation in JavaScript.
+## The main goal of this assignment is to learn how to do form validation in JavaScript.
 
 Project created by Joy Shaheb and found on freeCodeCamp website.
 
