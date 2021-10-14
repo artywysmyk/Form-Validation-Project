@@ -11,3 +11,7 @@ Project created by Joy Shaheb and found on freeCodeCamp website.
 
 
 ![Screen Shot 2021-10-14 at 16 13 28](https://user-images.githubusercontent.com/77698908/137337126-bbf14c91-ff31-4563-9ea4-3d486f85e5d6.png)
+
+
+
+![Screen Shot 2021-10-14 at 16 13 50](https://user-images.githubusercontent.com/77698908/137337287-c13f2973-803d-4f14-88e6-1ea63714fe1d.png)
